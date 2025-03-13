@@ -1,0 +1,2 @@
+# Elgamal
+Elgamal shifrlash algoritmi
