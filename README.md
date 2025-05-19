@@ -1,6 +1,9 @@
 # Elgamal shifrlash algoritmi va kripto tahlili
 
  
+![](taher.png)
+
+**Tohir Elgamal 1955 yil 18 avgust misrlik-amerikalik kriptograf va texnologiya bo'yicha rahbar.**  
 
 `p` -> katta tub son (1024 yoki 2048)  
 `g` -> primitiv root (1 < g < p-1)  
@@ -11,8 +14,8 @@
 `c1` va `c2` -> Shifrlanga xabarlar  
 y = $g^x$ mod p 
 
-![](umimiy.png)  
+![](umumiy.png)  
 
 
 
-![](about.png)
+
