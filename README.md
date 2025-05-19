@@ -1,4 +1,4 @@
 # Elgamal shifrlash algoritmi va kripto tahlili
 
 ## Kalit generatsiyasi
-![[about.png]]
+![[https://github.com/Beksult0n/Elgamal/blob/main/about.png]]
